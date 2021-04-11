@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    height: 100px;
+    background-color: chocolate;
+    text-align: center;
+    float: left;
+}
+.manu{
+    width: 80%;
+    height: 100px;
+    background-color: rgb(210, 42, 30);
+    text-align: center;
+    float: left;
+}
+.bar{
+    height: 70px;
+    background-color: rgb(233, 218, 5);
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left_block{
+    width: 20%;
+    height: 400px;
+    background-color: rgb(20, 23, 220);
+    float: left;
+    text-align: center;
+}
+.center{
+    width: 60%;
+    height: 400px;
+    background-color: rgb(214, 21, 231);
+    float: left;
+    text-align: center;
+}
+.right_block{
+    width: 20%;
+    height: 400px;
+    background-color: rgb(20, 220, 87);
+    float: left;
+    text-align: center;
+}
+.top{
+    height: 100px;
+    background-color: rgb(20, 190, 220);
+    text-align: center;
+}
+.middle{
+    height: 200px;
+    background-color: rgb(220, 100, 20);
+    text-align: center;
+    overflow: hidden;
+}
+.middle_left{
+    width: 50%;
+background-color: darkred;
+    float: left;
+    height: 100%;
+}
+.middle_right{
+    width: 50%;
+background-color: deeppink;
+    float: left;
+    height: 100%;
+}
+.bottom{
+    height: 100px;
+    background-color: rgb(143, 220, 20);
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    background-color: forestgreen;
+    text-align: center;
+}
